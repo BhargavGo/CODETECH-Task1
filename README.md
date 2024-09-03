@@ -7,8 +7,10 @@ Duration : Aug to Sept 2024
 Mentor : NEELA SANTOSH KUMAR
 Overview of the Project
 Project : LED BLINKING WITH ARDUINO
+
 **Objective**
 The objective of the LED blinking project with a built-in LED on an Arduino is to provide a simple yet practical introduction to embedded programming and microcontroller usage. By programming the Arduino to blink its built-in LED at a specified interval, the project aims to teach the basics of digital output control, timing, and the foundational concepts of how software interacts with hardware. This serves as an essential starting point for those new to electronics and embedded systems.
+
 Key Activities
 1. Understanding the Built-in LED:
 ⦁	Identify the built-in LED on the Arduino board, typically connected to digital pin 13.
