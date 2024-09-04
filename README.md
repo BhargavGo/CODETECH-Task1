@@ -47,7 +47,7 @@ The objective of the LED blinking project with a built-in LED on an Arduino is t
     - Arduino IDE: The integrated development environment used to write, compile, and upload code to the Arduino board.
       
 2. Programming Languages:
-    - C : The programming languages used to write the Arduino sketch.
+    - C++ : The programming languages used to write the Arduino sketch.
 
 This project provides a foundational understanding of how to control hardware through software, serving as an introductory step
 
