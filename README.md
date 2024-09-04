@@ -35,18 +35,19 @@ The objective of the LED blinking project with a built-in LED on an Arduino is t
       
 6. Experimentation and Modification:
     - Experiment by modifying the blinking interval in the code to see how it affects the LED's behavior.
-	- Test different delay times and observe the changes in the blinking speed.
+    - Test different delay times and observe the changes in the blinking speed.
 
 7. Troubleshooting:
-	- Debug common issues such as incorrect pin configuration or syntax errors in the code.
+    - Debug common issues such as incorrect pin configuration or syntax errors in the code.
 
 **Technologies Used**
 
 1. Arduino Platform:
-	- Arduino Board: A microcontroller board with a built-in LED, typically connected to digital pin 13.
+    - Arduino Board: A microcontroller board with a built-in LED, typically connected to digital pin 13.
     - Arduino IDE: The integrated development environment used to write, compile, and upload code to the Arduino board.
+      
 2. Programming Languages:
-	- C : The programming languages used to write the Arduino sketch.
+    - C : The programming languages used to write the Arduino sketch.
 
 This project provides a foundational understanding of how to control hardware through software, serving as an introductory step
 
