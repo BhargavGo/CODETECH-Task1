@@ -51,3 +51,5 @@ The objective of the LED blinking project with a built-in LED on an Arduino is t
 
 This project provides a foundational understanding of how to control hardware through software, serving as an introductory step
 
+![Screenshot (6)](https://github.com/user-attachments/assets/1a09e8bc-27ac-443f-864b-a66d7e17eac6)
+
